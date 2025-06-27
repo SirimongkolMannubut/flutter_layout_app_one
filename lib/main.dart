@@ -21,11 +21,11 @@ class MainApp extends StatelessWidget {
             Image.asset("assets/img/profile1.png"),
             const SizedBox(height: 20),
             const Text(
-              'Hello Flutter!',
+              'Sirmongkol_App',
               style: TextStyle(fontSize: 20),
             ),
             const Text(
-              'สวัสดีครับ',
+              'สวัสดีครับ ยินดีตอนรับ',
               style: TextStyle(fontSize: 18),
             ),
             const SizedBox(height: 10),
